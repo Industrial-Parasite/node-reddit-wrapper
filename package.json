@@ -5,6 +5,7 @@
   "main": "index.js",
   "repository": "https://github.com/Industrial-Parasite/node-reddit-wrapper.git",
   "author": "Klastic",
+  "scope": "industrial-parasite",
   "license": "MIT",
   "private": false,
   "dependencies": {
