@@ -46,6 +46,8 @@ const credentials = {
 3. Make a post to your subreddit.
 
 ```js
+const reddit = require('node-reddit-wrapper');
+
 await reddit(
   '/api/submit', // Reddit API PATH
   'POST', // Method (currently only supports POST)
