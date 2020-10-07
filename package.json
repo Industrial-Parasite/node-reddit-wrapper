@@ -1,0 +1,14 @@
+{
+  "name": "node-reddit-wrapper",
+  "version": "v0.1.0",
+  "description": "Node wrapper for Reddit's API.",
+  "main": "index.js",
+  "repository": "https://github.com/Industrial-Parasite/node-reddit-wrapper.git",
+  "author": "Klastic",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "form-data": "^3.0.0",
+    "node-fetch": "^2.6.1"
+  }
+}
